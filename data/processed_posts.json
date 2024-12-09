@@ -1,0 +1,171 @@
+[
+    {
+        "text": "Here\u2019s 5 mistakes I made in my first year as a data analyst (and how I\u2019ve learned from them):\n\n1\ufe0f\u20e3 Jumping straight into writing SQL or code.\n\u21b3 Start by defining the scope of the project: What\u2019s the goal? What decisions will this analysis inform?\n\n2\ufe0f\u20e3 Focusing too much on technology with stakeholders.\n\u21b3 Talk about the impact of the project over the technical details.\n\n3\ufe0f\u20e3 Not validating the results of an analysis.\n\u21b3 Even if the code runs without errors, I always double-check for issues like duplicates or wrong aggregations.\n\n4\ufe0f\u20e3 Neglecting the business context.\n\u21b3 Meet with stakeholder to understand business goals and how my role fits into the big picture.\n\n5\ufe0f\u20e3 Trying to do everything.\n\u21b3 Prioritize big wins and impactful projects that deliver the most value.",
+        "engagement": 180,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "SQL",
+            "Data Analyst"
+        ]
+    },
+    {
+        "text": "After a year as a data analyst, I\u2019ve been working on thinking like a senior analyst.\n\nA senior role goes beyond completing the tasks, it\u2019s about collaboration, understanding the business, and making a bigger impact.\n\nHere\u2019s how I\u2019ve been working on this transition:\n\nProactivity:\n\u21b3 Spotting trends, forming hypotheses, and diving into the data to validate or pivot based on the findings.\n\nAdding value:\n\u21b3 Going beyond the basics in projects. Even simple things like adding my thoughts on an ad hoc request, can make a difference (a tip my mentor shared that\u2019s been very helpful).\n\nStakeholder partnership:\n\u21b3 Building stronger relationships with stakeholders, becoming a subject matter expert and a partner, not just someone who pulls data.\n\nBusiness acumen:\n\u21b3 Learning more about my industry by researching competitors and reading product-focused content.\n\nAutomation:\n\u21b3 Automating processes (e.g. my weekly report) to free up time for bigger, more impactful projects.\n\nJunior roles are important and you can make impact there; everyone starts somewhere. But I\u2019m focusing on reaching the next level in my career.\n\n\u2753Senior analysts, do you have any advice for people just starting out in their career?",
+        "engagement": 226,
+        "line_count": 18,
+        "language": "English",
+        "tags": [
+            "Career Change",
+            "Data Analyst"
+        ]
+    },
+    {
+        "text": "During my data analyst job search, I got stuck at nearly every stage of the hiring process.\n\nEach time I took a step back, analyzed the problem, and worked on a solution.\n\n\ud83d\uded1 No interviews\n\ud83d\udfe2 I revised my resume: it to specific job titles like data analyst, emphasized focused my transferrable skills, and experimented with different version). I also continued to network.\n\n\ud83d\uded1 Stuck at the recruiter call or hiring manager interview:\n\ud83d\udfe2 Spent time creating a clear story to explain my career transition and how my transferable skills fit the role.\n\n\ud83d\uded1 Told I was a \u201cgood candidate\u201d but I lacked real-world experience\n\ud83d\udfe2 I created my own experience by volunteering with a non-profit and using data at part-time marketing role using data.\n\n\ud83d\uded1 Struggled in the technical interview\n\ud83d\udfe2 I didn\u2019t just practice SQL problems but also practiced explaining my reasoning and concepts as well.\n\n\ud83d\uded1 Didn\u2019t receive an offer\n\ud83d\udfe2 I reminded myself that sometimes, the decision comes down to factors outside my control like team dynamics or other candidates\u2019 experience. What mattered was that I did everything I could.\n\nThis wasn\u2019t a quick fix, it took the time to identify where I was struggling and to address each gap.\n\nP.S. While I job searched from October 2022 to June 2023, I know today\u2019s market is even tougher. But, taking the time to analyze my own data and focus on what I could control made a big difference.",
+        "engagement": 309,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "Data Analyst",
+            "Job Search"
+        ]
+    },
+    {
+        "text": "When I decided to switch careers and become a data analyst, I couldn\u2019t afford a bootcamp or grad school. So I created my own learning path:\n\n1\ufe0f\u20e3 Used the Google Data Analytics Course as a roadmap.\n2\ufe0f\u20e3 Focused on learning 3 tools: SQL, Tableau, and Python.\n3\ufe0f\u20e3 Sharpened my skills with an additional course (one for each tool).\n4\ufe0f\u20e3 Built a personal project for each skill after completing its course.\n5\ufe0f\u20e3 Shared my projects on LinkedIn to get feedback.\n\nWhy did this work for me?\n\u2705 It kept me focused on learning a few tools deeply.\n\u2705 Showcased my knowledge and passion with unique projects.\n\u2705 Helped me practice communication by writing about my work.\n\nThanks to Jess Ramos, MSBA with her post yesterday that inspired this one.\n\nP.S. I know there\u2019s a lot more to the job search than just the skills. Tomorrow I\u2019ll share more about what I did.",
+        "engagement": 289,
+        "line_count": 19,
+        "language": "English",
+        "tags": [
+            "Career Change",
+            "Data Analyst"
+        ]
+    },
+    {
+        "text": "Me: Writing a thoughtful comment on a post.\n\nLinkedIn: This post is actually a month old.\n\nMe: ...\n\n------\n\nSo I\u2019m sorry if I like or comment on a really old posts \ud83d\ude05 For some reason my LinkedIn feed keeps showing me posts that are 2+ weeks old.\n\nP.S. Yes, I know you can change to view your feed in \u201cmost recent\u201d in the settings, but this hasn\u2019t been as much of an issue until recently.\n\n-----\nImage description:\nA four-panel meme using the \u201cAnakin and Padm\u00e9\u201d Star Wars template:\n- Top left panel: Anakin looks at Padm\u00e9 with a neutral expression. Text below him reads, 'My LinkedIn Feed.'\n- Top right panel: Padm\u00e9 looks at Anakin with a hopeful smile. Text below her reads, 'Me: This is a recent post, right?'\n- Bottom left panel: Anakin stares at Padm\u00e9 in silence, appearing doubtful.\n- Bottom right panel: Padm\u00e9\u2019s smile fades, and she looks concerned. Text below her reads, 'Right?'",
+        "engagement": 103,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Productivity",
+            "LinkedIn"
+        ]
+    },
+    {
+        "text": "The churn prediction model I built is helping the marketing team win back high-value customers.\n\nNext steps:\n\u21b3 Test the model with targeted offers.\n\u21b3 Analyze performance and refine the model.\n\u21b3 Explore using Google Cloud\u2019s ML tools for scalability and optimization.\n\nExcited to see how this turns out!\n\n\ud83d\udd17 Links to my blog posts about the model in the comments below.",
+        "engagement": 121,
+        "line_count": 7,
+        "language": "English",
+        "tags": [
+            "Marketing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "text": "Whenever we add a new feature, before writing any SQL, I make sure I understand how the data flows from our website to our database.\n\nThis helps me write queries, especially when I use CASE WHEN statements for filtering specific rows.\n\nFor example, if we added a new game, I\u2019d look at the game data table and focus on two specific columns:\n\u25fc\ufe0f player_moves - logs each action a player takes (e.g., Move A, Move B, etc.)\n\u25fc\ufe0fspecial_outcomes - logs only actions that result in special outcomes (e.g., reaching a bonus or triggering a combo).\n\nIf I want to count how often players achieve these special outcomes, my CASE WHEN logic filters only rows where special_outcomes is populated. I would write:\n\nCOUNT(CASE WHEN special_outcomes = 'Bonus' THEN special_outcomes END) AS number_of_bonuses\n\nI\u2019m not a data engineer, but having this knowledge helps me get a deeper understanding of the data logic.\n\nIf you\u2019re interested in learning more, subscribe to my newsletter where I\u2019ll be sharing the full query:\nhttps://lnkd.in/gEK8CEt7",
+        "engagement": 106,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "SQL",
+            "Data Analysis"
+        ]
+    },
+    {
+        "text": "How I\u2019ve been applying what I learn from books to my data analyst work.\n\n1\ufe0f\u20e3 Read only the relevant chapters (e.g. time series analysis & cohort analysis).\n\n2\ufe0f\u20e3 Skim the rest to focus on the most impactful content.\n\n3\ufe0f\u20e3 Find new concepts for existing or future projects.\n\n4\ufe0f\u20e3 Validate that each technique adds business value:\n\u21b3 Updating a query with a window function? \u2705 It saves processing time \u2192 reduces query costs \u2192 saves money.\n\u21b3 Running another cohort analysis? \u274c Not always, especially if the cohort is too small to yield meaningful insights.\n\nI focus on staying intentional and prioritizing impactful projects to ensure my learning drives results.\n\nP.S. The book I\u2019m currently reading is: SQL for Data Analysis by Cathy Tanimura.",
+        "engagement": 106,
+        "line_count": 13,
+        "language": "English",
+        "tags": [
+            "SQL",
+            "Data Analyst"
+        ]
+    },
+    {
+        "text": "I\u2019ve never had a stakeholder ask about the technical details of an analysis.\n\nThey weren't interested in the Python library I used or a new SQL function I implemented, it was all about the impact and results.\n\nHere\u2019s what I focus on when talking to stakeholders:\n\u25fc\ufe0f Actively listen to their feedback and concerns.\n\u25fc\ufe0f Highlight the impact/results, not the methods.\n\u25fc\ufe0f Understand how they plan to use the data.\n\u25fc\ufe0f Identify what matters to them and their goals.\n\u25fc\ufe0f Use clear language and avoid technical terms.\n\nWith my team, I can get into the nerdy details. But with stakeholders, it\u2019s about everything after the analysis: WHAT we can do with the data and HOW it helps us reach business goals.\n\nP.S. There\u2019s always exceptions, some stakeholders may be interested in the technical side. But in my experience, they usually aren't.",
+        "engagement": 235,
+        "line_count": 12,
+        "language": "English",
+        "tags": [
+            "Data Analysis",
+            "Stakeholders"
+        ]
+    },
+    {
+        "text": "My newest habit as a data analyst: following through on projects.\n\nBefore, I\u2019d submit a project and move on. Now I follow up on:\n\u25fc\ufe0f How the project was used.\n\u25fc\ufe0f The impact and results.\n\u25fc\ufe0f Whether additional analysis or improvements are needed.\n\u25fc\ufe0f How insights were applied in making decisions.\n\nWhy do this? It helps me:\n\u25fc\ufe0f Build a better understanding of the company and specific departments (e.g. marketing)\n\u25fc\ufe0f Be proactive, I can spot trends before being asked and work on higher level projects.\n\u25fc\ufe0f Gain context for future projects.\n\nA few examples:\n\u27a1\ufe0f A marketing analysis I delivered led to another successful campaign, driving new revenue.\n\u27a1\ufe0f Finance uses my report to detect fraud earlier, reducing operational costs.\n\nTo make sure this done every time, I\u2019ve added this process to my SOP (standard operating procedure) for every project.",
+        "engagement": 275,
+        "line_count": 17,
+        "language": "English",
+        "tags": [
+            "Data Analyst",
+            "Project Management"
+        ]
+    },
+    {
+        "text": "I see a lot of books recommended for learning technical skills. But what about the other skills?\n\nI fell into this trap myself yesterday. I shared a list of technical books that helped me learn tools like Python and SQL. But being a good data analyst takes more than just technical knowledge.\n\nIt also requires:\n1\ufe0f\u20e3 Domain knowledge - Understanding your industry\n2\ufe0f\u20e3 Soft skills - problem solving, communication, etc.\n\nCredit to Drew Mooney for this list in his post today.\n\n\u2753What books would you recommend to improve these skills?\n\nP.S. Storytelling with Data by Cole Nussbaumer Knaflic is already on my list.\n\nLinks to Storytelling with Data, Drew\u2019s original post, and my technical book list from yesterday are in the comments below \ud83d\udc47",
+        "engagement": 68,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Data Analyst",
+            "Technical Skills"
+        ]
+    },
+    {
+        "text": "Happiness is never about - Job, Degree, Relationships etc.\n\nOne day you're going to realise that happiness is about discovering, listening to your heart, having the ability to choose things that please your heart.\n\nHappiness is not just about following the footsteps of people who came before you. It's more about \"Being You\"\n\nHappiness is about being kinder to yourself.\nIt is about embracing the person that you're becoming.\n\nIt is about enjoying the path, it's not just reaching the destination.\n\nHappiness is about accepting yourself and living with yourself, this happiness is not in the hands of other people.\n\nIt is about you.\nIt was always about you.\nIt will always be about you.",
+        "engagement": 117,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Motivation",
+            "Happiness"
+        ]
+    },
+    {
+        "text": "Started this year with \"jo hoga, dekha jaayega\"\n\nEnding this year with \"Jo hua, nahi dekha Jaa Raha hai\"\n\nTime for a change in 2025 \ud83d\ude42",
+        "engagement": 137,
+        "line_count": 3,
+        "language": "Hinglish",
+        "tags": [
+            "New Year",
+            "Change"
+        ]
+    },
+    {
+        "text": "India has the highest suicide rate in the world: 12.4 per 100,000 people.\n\nThis isn\u2019t just a statistic\u2014it\u2019s a wake-up call. Behind every number is a story, a person, a family.\n\nMental health in India is still shrouded in stigma. Many are too afraid or ashamed to ask for help. Conversations around mental health are often brushed under the rug, leaving countless individuals to suffer in silence.\n\nBut here\u2019s the truth: seeking help isn\u2019t a weakness\u2014it\u2019s courage in action.\n\nIf you\u2019re reading this and feel overwhelmed, here are three things I want you to remember:\n\n1. It\u2019s okay to feel broken.\n\nLife isn\u2019t about always being strong; it\u2019s about finding the strength to keep going.\n\n2. You\u2019re not alone.\n\nReach out to a trusted friend, family member, or even a stranger. People care more than you think.\n\n3. Help is available.\n\nTherapy, helplines, and support groups exist to guide you through tough times.\n\nAnd for those of us who know someone struggling:\n- Listen without judgment.\n- Be patient.\n- Encourage them to seek professional help.\n\nIf we normalize these conversations, we can save lives.\n\nYou matter. Your struggles matter. And most importantly, there is a light at the end of the tunnel.\n\nLet\u2019s make mental health a priority. Together, we can break the stigma.",
+        "engagement": 74,
+        "line_count": 23,
+        "language": "English",
+        "tags": [
+            "Stigma",
+            "Mental Health"
+        ]
+    },
+    {
+        "text": "Did you know your brain has the ability to rewire itself, adapt, and grow\u2014even in the face of challenges?\n\nThis phenomenon is called neuroplasticity, and it\u2019s one of the most fascinating discoveries in neuroscience.\n\nImagine this: You\u2019re learning a new skill, like coding, playing an instrument, or even managing your emotions better.\n\nEach time you practice, your brain is creating and strengthening new neural pathways. It\u2019s like building a road in a dense forest\u2014the more you walk the path, the clearer and faster it becomes.\n\nNeuroplasticity isn\u2019t just about learning; it\u2019s about healing.\n\nThe person overcoming anxiety learns to reframe thoughts.\n\nThe professional bouncing back after a failure develops resilience.\n\nThe individual recovering from trauma builds new patterns of thought and behavior.\n\nYour brain doesn\u2019t care where you start\u2014it only cares about where you go from here.\n\nSo, whether you\u2019re:\n\nStruggling to keep up with a demanding career,\nTrying to unlearn toxic habits,\n\nOr starting from scratch in a new field,\n\nYour brain is ready to help you transform.\n\nYes, it takes time. Yes, it takes effort. But the science says it\u2019s possible.\n\nHere\u2019s how you can tap into neuroplasticity:\n\nPractice Consistently: Repetition strengthens those neural pathways.\n\nStay Curious: New challenges stimulate brain growth.\n\nEmbrace Setbacks: Each failure teaches your brain something new.\n\nSurround Yourself with Growth: Environments and people matter.\n\nYour brain is your partner in this journey. If it can adapt after strokes, injuries, and life-altering experiences, imagine what it can do for you today.\n\nYou have the power to change\u2014not just your skills, but your entire mindset.\n\nThese are a few things that I've been learning when I am studying our human mind and psychology. Do you like such posts, you want me to share more?",
+        "engagement": 38,
+        "line_count": 25,
+        "language": "English",
+        "tags": [
+            "Neuroplasticity",
+            "Personal Growth"
+        ]
+    },
+    {
+        "text": "Importance of comma -\n\nRuko, mat likho interested.\n\nRuko mat, likho interested.\n\nAlso an example of selective hearing :p",
+        "engagement": 151,
+        "line_count": 4,
+        "language": "Hinglish",
+        "tags": [
+            "Productivity"
+        ]
+    },
+    {
+        "text": "Setting Goals isn't the most important thing.\n\nWorking on that goal.\u2705\nPlanning the things you need to achieve that goal.\u2705\nGiving yourself a deadline\u2705\n\nand then being disciplined about it is important.\n\nA goal without an action plan is a dream.\n\nWrite a goal on your wall and plan it. Give yourself time to achieve it and take active actions towards it.",
+        "engagement": 234,
+        "line_count": 8,
+        "language": "English",
+        "tags": [
+            "Productivity",
+            "Goal"
+        ]
+    }
+]
