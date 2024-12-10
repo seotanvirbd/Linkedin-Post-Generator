@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/seotanvirbd/)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-green)](https://seotanvirbd.com/)
 [![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/@tanvirbinali2200)
+[![Upwork](https://img.shields.io/badge/HireMe-Upwork-green)](https://www.upwork.com/freelancers/~010fc1db7bfe386976)
 
 ## 🎯 Project Overview
 
